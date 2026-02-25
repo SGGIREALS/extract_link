@@ -11,12 +11,13 @@ Tools Ekstraksi Link Brutal untuk Termux & Linux
 ╚══════╝ ╚═════╝ ╚═╝
 ```
 
-<div align="center">
 
-https://img.shields.io/badge/Python-3.8%2B-blue
-https://img.shields.io/badge/License-MIT-green
-https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-orange
-https://img.shields.io/badge/Version-2.1-red
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-orange" />
+  <img src="https://img.shields.io/badge/Version-2.1-red" />
+</div>
 
 SGI Extract Link adalah tools ekstraksi link paling brutal yang dioptimalkan untuk Termux dan Linux. Tools ini mampu mengekstrak berbagai jenis link dari website target secara cepat dengan sistem multi-threading.
 
